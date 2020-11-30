@@ -1,0 +1,3 @@
+2020/11/20 21:00:47 Status code for https://intuit.com: 200 OK
+2020/11/20 21:04:17 Status code for https://intuitas.com: 200 OK
+2020/11/20 21:12:55 Status code for https://intuitas.com: 200 OK

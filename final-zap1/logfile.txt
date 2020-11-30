@@ -1,0 +1,7 @@
+2020/11/20 21:00:47 Status code for https://intuit.com: 200 OK
+2020/11/20 21:04:17 Status code for https://intuitas.com: 200 OK
+2020/11/20 21:12:55 Status code for https://intuitas.com: 200 OK
+2020/11/21 00:59:45 Error fetching url localhost:8080 : Get "localhost:8080": unsupported protocol scheme "localhost"
+2020/11/21 01:03:49 Status code for https://intuit.com: 200 OK
+2020/11/21 01:16:21 Error fetching url localhost:8080 : Get "localhost:8080": unsupported protocol scheme "localhost"
+2020/11/21 01:16:42 Error fetching url localhost:8080 : Get "localhost:8080": unsupported protocol scheme "localhost"
